@@ -1,12 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
     <title>Live Timeline</title>
 </head>
+
 <body>
-    
+    <div class="container">
+        <div class="timeline" id="timeline">
+            <div class="line" id="line"></div>
+            <div class="time-blocks" id="time-blocks">
+                <div class="time-block blue size-25">25 mins</div>
+                <div class="time-block green size-5">BREAK<br>5<br>mins</div>
+                <div class="time-block blue size-20">20 mins</div>
+                <div class="time-block purple size-5">Review<br>5<br>mins</div>
+                <div class="time-block green size-5">BREAK<br>5<br>mins</div>
+                <div class="time-block blue size-15">15 mins</div>
+                <div class="time-block purple size-5">Review<br>5<br>mins</div>
+            </div>
+        </div>
+        <div id="timer"></div>
+        <div>
+            <button class="start-btn" id="start-btn">Start</button>
+        </div>
+    </div>
 </body>
+
 </html>
