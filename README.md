@@ -2,7 +2,7 @@
 
 A live timeline I build in response to this reddit thread: [Looking for 'live timeline' software. Anyone heard of something that can do this?](https://www.reddit.com/r/software/comments/rr1dsy/looking_for_live_timeline_software_anyone_heard/)
 
-The website can be found here: [carpenterx.github.io/live-timeline/](carpenterx.github.io/live-timeline/)
+The website can be found here: [carpenterx.github.io/live-timeline/](https://carpenterx.github.io/Live-Timeline/)
 
 ## From reddit:
 
