@@ -14,6 +14,10 @@ To help manage my time, I imagined some software which would allow me to input a
 
 Timeline example: [https://imgur.com/aOx2iSJ](https://imgur.com/aOx2iSJ)
 
+![Timeline example](images/aOx2iSJ.png)
+
 Software mock up: [https://imgur.com/CHzpwbj](https://imgur.com/CHzpwbj)
+
+![Software mock up](images/CHzpwbj.png)
 
 Do you know software like this?
